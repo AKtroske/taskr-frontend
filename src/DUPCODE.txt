@@ -1,0 +1,8 @@
+List of items that may contain dupe code.
+
+Review before production/github posting.
+
+Styles:
+  -BGWrappers
+  -Form Components
+  -useForm files lots of repetitive functions
